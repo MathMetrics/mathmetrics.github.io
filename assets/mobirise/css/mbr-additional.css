@@ -25,9 +25,14 @@
 #slider-b H2 {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
+  font-size: 46px;
 }
 #slider-b P {
   color: #ffffff;
+  font-size: 18px;
+}
+#slider-b B {
+  font-size: 30px;
 }
 #msg-box2-p H2 {
   text-align: left;
@@ -36,4 +41,8 @@
 }
 #content4-f P {
   text-align: left;
+}
+#social-buttons1-t .mbr-section-title {
+  font-size: 16px;
+  color: #ffffff;
 }
